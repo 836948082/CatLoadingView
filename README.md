@@ -5,7 +5,7 @@ Thanks for the idea.<br>
 
 I like the animation in that picture.<br>
 
-![](http://ww4.sinaimg.cn/mw690/a695acdejw1f2hbmfxzk5g208u0a2ass.gif)
+![](https://github.com/836948082/CatLoadingView/blob/master/image/image.gif)
 
 ..as you see right now,wish you like it.
 
